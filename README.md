@@ -22,7 +22,7 @@ Im a self taught software developer and reverse engineer with experience in Game
 |  ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=.net&logoColor=white) | ![.NET Core](https://img.shields.io/badge/.NET_Core-420782?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-420782?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-420782?style=for-the-badge&logo=blazor&logoColor=white)
 |  ![Java](https://img.shields.io/badge/-Java-239120?style=for-the-badge&logo=coffeescript&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![OpenJDK](https://img.shields.io/badge/OpenJDK-000000?style=for-the-badge&logo=openjdk&logoColor=white) 
 |  ![Lua](https://img.shields.io/badge/Lua-0B1078?style=for-the-badge&logo=lua&logoColor=white)
-|  ![Assembly (x86_64, ARM)](https://img.shields.io/badge/Assembly_(x86__64,_ARM)-654FF0?style=for-the-badge&logo=webassembly&logoColor=white) | ![IDA](https://img.shields.io/badge/IDA_(The_Interactive_Disassembler)-654FF0?style=for-the-badge&logo=webassembly&logoColor=white) |
+|  ![Assembly (x86_64, ARM)](https://img.shields.io/badge/Assembly_(x86__64,_ARM)-654FF0?style=for-the-badge&logo=webassembly&logoColor=white) | ![IDA](https://img.shields.io/badge/IDA_(The_Interactive_Disassembler)-654FF0?style=for-the-badge&logo=webassembly&logoColor=white) ![GHidra](https://img.shields.io/badge/GHidra-654FF0?style=for-the-badge&logo=webassembly&logoColor=white) |
 
 |   IDEs   |   Tools   |
 |:----------|:-----------|
