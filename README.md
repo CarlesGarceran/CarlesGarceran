@@ -3,7 +3,7 @@
 ## Who i am
 Im a self taught software developer and reverse engineer with experience in Game Development, Webapp Development, Desktop app development, Graphics Computing, Reverse Engineering of binaries (ARM and x86_64)
 
-- 🔭 I’m currently working on Gold Engine a game engine written in C++/CLI using the Raylib framework.
+- 🔭 I’m currently working on Gold Engine a game engine written in C++/CLI using the Raylib framework. <br>
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=carlesgarceran&repo=goldengine&theme=tokyonight)](https://github.com/carlesgarceran/goldengine)
 
 
