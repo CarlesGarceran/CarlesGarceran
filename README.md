@@ -1,11 +1,15 @@
 ## Hey 👋, Im Carles!
 
 ## Who i am
-Im a self taught software developer and reverse engineer with experience in Game Development, Webapp Development, Desktop app development, Graphics Computing, Reverse Engineering of binaries (ARM and x86_64)
+I'm a self-taught software developer and reverse engineer with experience in Game Development, web app development, desktop app development, Graphics Computing, Reverse Engineering of binaries (ARM and x86_64)
 
-- 🔭 I’m currently working on Gold Engine a game engine written in C++/CLI using the Raylib framework. <br>
+- 🔭 I’m actively developing Gold Engine, a custom game engine written in C++/CLI, built on top of the Raylib framework. <br>
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=carlesgarceran&repo=goldengine&theme=tokyonight)](https://github.com/carlesgarceran/goldengine)
 
+## About Me
+I started as a hobbyist in game development and gradually expanded into systems programming and reverse engineering. My passion lies in understanding how things work under the hood—from games to binary internals.
+
+I'm currently seeking opportunities to contribute to low-level systems, game engines, or security-related projects.
 
 ## GitHub Statistics
 
