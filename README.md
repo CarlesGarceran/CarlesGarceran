@@ -16,9 +16,11 @@ I'm fascinated by the inner workings of systems—from games to low-level binari
 
 ### 🚀 What I'm Working On
 
-I'm currently developing **[Gold Engine](https://github.com/carlesgarceran/goldengine)** — a custom game engine written in **C++/CLI**, built on top of the **Raylib** framework.
+I'm currently developing **[Gold Engine](https://github.com/carlesgarceran/goldengine)** — a custom game engine written in **C++/CLI**, built on top of a forked version of the **Raylib** framework.
 
 [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=carlesgarceran&repo=goldengine&theme=tokyonight)](https://github.com/carlesgarceran/goldengine)
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=carlesgarceran&repo=raylib-goldengine&theme=tokyonight)](https://github.com/carlesgarceran/raylib-goldengine)
 
 ---
 
